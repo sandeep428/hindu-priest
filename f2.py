@@ -1,1 +1,2 @@
  printf(hello) 
+ printd(hi)
